@@ -1,0 +1,294 @@
+#print{
+
+    background:url("img/bg1.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    
+    color: white;
+
+
+}
+#head{
+    color:orchid;
+    text-align:left;
+    font-style: italic;
+}
+#p1{
+    text-align:center;
+    color: navy;
+
+    font-weight: bolder;
+    
+}
+#social a{
+    color: white;
+    background: orangered;
+    padding: 10px 12px;
+    border-radius:50px;
+}
+#navbarNavAltMarkup a{
+    margin-right: 10px;
+    background: rgba(209, 88, 69,0.8);
+    border-radius: 20px;
+    padding: 10px;
+    color: black;
+}
+.btnorder{
+    background: none;
+    border: 1px solid white !important;
+    border-radius: 0px;
+    padding: 14px 25px;
+}
+#h4{
+    color:orangered;
+}
+#p2{
+    font-size: 70px;
+}
+.hoverdiv:hover .hoverimg{
+    border-radius:130px;
+    
+}
+.hoverdiv:hover .hoverimg{
+    border-radius:130px;
+    
+
+
+}
+
+.hoverdiv:hover .hoverimg{
+    border-radius:130px;
+    
+
+}
+.hoverdiv:hover .hoverimg{
+    border-radius:130px;
+}
+#k3{
+    height: 500px;
+    width:100%;
+    background-color: rgba(209, 88, 69,0.8);
+    border-radius: 40px;
+}
+#inst{
+    width:50%;
+    padding-left: 30px;
+    color:white;
+    padding-top: 40px;
+}
+#k4{
+    margin-left: 100px;
+    height: 400px;
+    width:20%;
+}
+
+#out{
+height:700px;
+width: 100%;
+    background-color:rgba(209, 88, 69,0.8);
+    padding-left: 40px;
+    padding-top: 50px;
+    border-radius: 40px;
+    color:white;
+    position: relative;
+    
+}
+#img3{
+    
+    border-radius:  50px !important;
+}
+#child1{
+    background-color:chocolate;
+    border-radius: 10px;
+    height: 100px;
+    width: 50%;
+right:50px;
+ top:40px;
+ padding: 20px;
+}
+#admit{
+    background-color: rgba(243,189,188,0.21);
+    margin-top :60px;
+    height: 1100px;
+    width:200%;
+}
+#card1{
+ background-color:white;
+    height: 200px;
+    width:45%;
+    border-radius: 30px;
+    margin-left: 60px;
+    padding-left: 50;
+    padding-right: 40px;
+margin-top: 40px;
+ left:0;
+}
+ #card1:hover{
+    background-color: rgba(209, 88, 69,0.8);
+}
+#card2{
+    
+    background-color:white;
+    height: 200px;
+    width:45%;
+    margin-top: 40px;
+    border-radius: 30px;
+    margin-left: 40px;
+   
+left:40%; 
+    
+
+
+}
+#card2:hover{
+    background-color: rgba(209, 88, 69,0.8);
+}
+#card3{
+    content: center;
+    background-color:white;
+    height: 200px;
+    width:45%;
+    border-radius: 30px;
+    margin-left: 370px;
+    
+margin-top: 40px;
+
+}
+#card3:hover{
+    background-color: rgba(209, 88, 69,0.8);
+}
+#card4{
+    content: center;
+    background-color:white;
+    height: 200px;
+    width:45%;
+    border-radius: 30px;
+    margin-left: 40px;
+    
+    
+margin-top: 40px;
+
+}
+#card4:hover{
+    background-color: rgba(209, 88, 69,0.8);
+}
+#card5{
+    
+    background-color:white;
+    height: 200px;
+    width:45%;
+    margin-top: 40px;
+    border-radius: 30px;
+    margin-left: 40px;
+    
+    
+
+
+}
+#card5:hover{
+    background-color: rgba(209, 88, 69,0.8);
+}
+#block{
+    background-color:white;
+}
+#footer{
+    background-color: rgba(209, 88, 69,0.8);
+    height:800px;
+    color:white;
+}
+#contactform .form-control,#contactform button{
+    margin-top:40px;
+}
+#CP1{
+    background-color:white;
+}
+#CP1:hover{
+    background-color: rgba(209, 88, 69,0.8);
+}
+#about{
+    font-size: larger;
+}
+#blog{
+    background:rgba(209, 88, 69,0.8);
+}
+#icn{
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+}
+#para{
+    font-size: 30px;
+    
+}
+#a1{
+    background:rgba(209, 88, 69,0.8);
+}
+#a2{
+    color:white;
+}
+#offer{
+
+font-size: 30px;
+font-style: italic;
+
+}
+#box1{
+    background:white;
+    border:2px solid rgba(209, 88, 69,0.8);
+    height: 400px;
+    width:45%;
+    border-radius: 30px;
+    margin-left: 60px;
+    padding-left: 50;
+    padding-right: 40px;
+margin-top: 40px;
+ left:0;
+ font-size :20px;
+
+
+}
+#box1:hover{
+    background-color: rgba(209, 88, 69,0.8);
+}
+
+#email{
+    background:url("h1.jpg") rgba(0,0,0,0.7);
+    padding: 100px;
+     border-radius:150px ;
+     background-repeat:no-repeat;
+    background-size:cover;
+    background-blend-mode: darken;
+    color: white;
+    text-align: center;
+
+}
+#admit1{
+    background-color: rgba(243,189,188,0.21);
+    margin-top :60px;
+    height: 1100px;
+    width:100%;
+}
+#box2{
+    background:white;
+    border:2px solid rgba(209, 88, 69,0.8);
+    height: 300px;
+    width:45%;
+    border-radius: 30px;
+  
+    
+    
+
+ left:0;
+ font-size :20px;
+
+
+}
+#box2:hover{
+    background-color: rgba(209, 88, 69,0.8);
+}
+#get{
+    background:black;
+    height:200px;
+    width:100%;
+    border-radius:50px;
+}
